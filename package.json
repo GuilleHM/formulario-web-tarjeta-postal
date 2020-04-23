@@ -1,0 +1,16 @@
+{
+  "name": "formulario-web-tipo-postal",
+  "version": "1.0.0",
+  "description": "Se trata de un pequeño proyecto basado en la sección de aprendizaje del sitio web *Mozilla Development Network* sobre el empleo y estilizado de varios de los tipos de elementos de control que pueden conformar un formulario.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://GuilleHM.github.io/formulario-web-tarjeta-postal",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
